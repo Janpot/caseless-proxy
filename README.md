@@ -7,6 +7,8 @@ This way native javascript constructs can be used to get/set/delete properties i
 
 Objects created with this library behave exactly like normal javascript objects with the exception that property access happens in a case insensitive way.
 
+[![Build Status](https://travis-ci.org/Janpot/caseless-proxy.svg?branch=master)](https://travis-ci.org/Janpot/caseless-proxy)
+
 ## Usage
 
 caseless:
